@@ -452,16 +452,20 @@
   overflow-x: auto;
   position: relative;
   display: grid;
-  grid-template-columns: [a] 40px [b] minmax(100px, 1fr) [c] minmax(140px, 1fr) [d] minmax(
+  grid-template-columns:
+    [a] 40px [b] minmax(100px, 1fr) [c] minmax(140px, 1fr) [d] minmax(
       100px,
       1fr
-    ) [e] 80px [f] minmax(150px, 1fr) [g] minmax(100px, 1fr) [h] minmax(
+    )
+    [e] 80px [f] minmax(150px, 1fr) [g] minmax(100px, 1fr) [h] minmax(
       100px,
       1fr
-    ) [i] minmax(100px, 1fr) [j] minmax(100px, 1fr) [k] minmax(100px, 1fr) [l] minmax(
+    )
+    [i] minmax(100px, 1fr) [j] minmax(100px, 1fr) [k] minmax(100px, 1fr) [l] minmax(
       100px,
       1fr
-    ) [m] minmax(100px, 1fr) [n];
+    )
+    [m] minmax(100px, 1fr) [n];
 }
 .TableOrder_gridContainerTable__qWD0C .TableOrder_cell__3IiHs {
   position: relative;
@@ -525,16 +529,20 @@
 .TableOrder_gridContainerTable__qWD0C[data-agent-view="true"] {
   position: relative;
   display: grid;
-  grid-template-columns: [a] 40px [b] minmax(100px, 1fr) [c] minmax(140px, 1fr) [d] minmax(
+  grid-template-columns:
+    [a] 40px [b] minmax(100px, 1fr) [c] minmax(140px, 1fr) [d] minmax(
       100px,
       1fr
-    ) [e] 80px [f] minmax(150px, 1fr) [g] minmax(100px, 1fr) [h] minmax(
+    )
+    [e] 80px [f] minmax(150px, 1fr) [g] minmax(100px, 1fr) [h] minmax(
       100px,
       1fr
-    ) [i] minmax(100px, 1fr) [j] minmax(100px, 1fr) [k] minmax(100px, 1fr) [l] minmax(
+    )
+    [i] minmax(100px, 1fr) [j] minmax(100px, 1fr) [k] minmax(100px, 1fr) [l] minmax(
       100px,
       1fr
-    ) [m];
+    )
+    [m];
 }
 .TableOrder_gridContainerTable__qWD0C[data-agent-view="true"]
   .TableOrder_cell__3IiHs {
@@ -610,16 +618,16 @@
   overflow-x: auto;
   position: relative;
   display: grid;
-  grid-template-columns: [a] 48px [b] minmax(120px, 1fr) [c] minmax(140px, 1fr) [d] minmax(
+  grid-template-columns:
+    [a] 48px [b] minmax(120px, 1fr) [c] minmax(140px, 1fr) [d] minmax(
       100px,
       1fr
-    ) [e] 100px [f] minmax(150px, 1fr) [g] minmax(150px, 1fr) [h] minmax(
+    )
+    [e] 100px [f] minmax(150px, 1fr) [g] minmax(150px, 1fr) [h] minmax(
       130px,
       1fr
-    ) [i] minmax(130px, 1fr) [j] minmax(80px, 1fr) [k] minmax(80px, 1fr) [l] minmax(
-      80px,
-      1fr
-    );
+    )
+    [i] minmax(130px, 1fr) [j] minmax(80px, 1fr) [k] minmax(80px, 1fr) [l] minmax(80px, 1fr);
 }
 .TableOrder_gridRFQTable__VS_6e .TableOrder_cell__3IiHs {
   position: relative;
@@ -683,13 +691,16 @@
   overflow-x: auto;
   position: relative;
   display: grid;
-  grid-template-columns: [a] 30px [b] minmax(110px, 1fr) [c] minmax(64px, 1fr) [d] 40px [e] minmax(
+  grid-template-columns:
+    [a] 30px [b] minmax(110px, 1fr) [c] minmax(64px, 1fr) [d] 40px [e] minmax(
       120px,
       1fr
-    ) [f] minmax(90px, 1fr) [g] minmax(64px, 1fr) [h] minmax(75px, 1fr) [i] minmax(
+    )
+    [f] minmax(90px, 1fr) [g] minmax(64px, 1fr) [h] minmax(75px, 1fr) [i] minmax(
       75px,
       1fr
-    ) [k] minmax(75px, 1fr) [l] minmax(75px, 1fr) [m] minmax(80px, 1fr) [n];
+    )
+    [k] minmax(75px, 1fr) [l] minmax(75px, 1fr) [m] minmax(80px, 1fr) [n];
 }
 .TableOrder_gridPreviewPositionsContainerTable__FNh8y .TableOrder_cell__3IiHs {
   position: relative;
@@ -757,10 +768,12 @@
 }
 .TableOrder_gridContainerTableSettlements__z5fDg {
   overflow-x: auto;
-  grid-template-columns: [a] 48px [b] minmax(120px, 1fr) [c] minmax(120px, 1fr) [d] minmax(
+  grid-template-columns:
+    [a] 48px [b] minmax(120px, 1fr) [c] minmax(120px, 1fr) [d] minmax(
       120px,
       1fr
-    ) [e] minmax(120px, 1fr) [f] minmax(120px, 1fr) [g] 50px [h];
+    )
+    [e] minmax(120px, 1fr) [f] minmax(120px, 1fr) [g] 50px [h];
   position: relative;
   display: grid;
 }
@@ -837,16 +850,17 @@
   padding-bottom: 1rem;
   position: relative;
   display: grid;
-  grid-template-columns: [a] 48px [b] minmax(130px, 1fr) [c] minmax(120px, 1fr) [d] minmax(
+  grid-template-columns:
+    [a] 48px [b] minmax(130px, 1fr) [c] minmax(120px, 1fr) [d] minmax(
       120px,
       1fr
-    ) [e] 80px [f] minmax(130px, 1fr) [g] minmax(150px, 1fr) [h] minmax(
+    )
+    [e] 80px [f] minmax(130px, 1fr) [g] minmax(150px, 1fr) [h] minmax(
       140px,
       1fr
-    ) [i] minmax(130px, 1fr) [j] 60px [k] minmax(50px, 1fr) [l] minmax(
-      80px,
-      1fr
-    ) [m] 70px [n];
+    )
+    [i] minmax(130px, 1fr) [j] 60px [k] minmax(50px, 1fr) [l] minmax(80px, 1fr)
+    [m] 70px [n];
 }
 .TableOrder_gridContainerTableLiveOrders__5H1to .TableOrder_cell__3IiHs {
   position: relative;
@@ -919,10 +933,9 @@
   overflow-x: auto;
   position: relative;
   display: grid;
-  grid-template-columns: [a] 40px [b] minmax(115px, 1fr) [c] 52px [d] minmax(
-      120px,
-      1fr
-    ) [e] 44px [f] minmax(90px, 1fr) [g] minmax(90px, 1fr) [h] minmax(80px, 1fr) [i] 90px [j] 50px [k] 70px [l] 70px [m] 70px [n];
+  grid-template-columns:
+    [a] 40px [b] minmax(115px, 1fr) [c] 52px [d] minmax(120px, 1fr)
+    [e] 44px [f] minmax(90px, 1fr) [g] minmax(90px, 1fr) [h] minmax(80px, 1fr) [i] 90px [j] 50px [k] 70px [l] 70px [m] 70px [n];
 }
 .TableOrder_gridContainerTableLivePreviewOrders__s_kSG .TableOrder_cell__3IiHs {
   position: relative;
@@ -997,13 +1010,16 @@
   overflow-x: auto;
   position: relative;
   display: grid;
-  grid-template-columns: [a] 48px [b] minmax(120px, 1fr) [c] minmax(120px, 1fr) [d] minmax(
+  grid-template-columns:
+    [a] 48px [b] minmax(120px, 1fr) [c] minmax(120px, 1fr) [d] minmax(
       120px,
       1fr
-    ) [e] minmax(80px, 1fr) [f] minmax(150px, 1fr) [g] minmax(100px, 1fr) [h] minmax(
+    )
+    [e] minmax(80px, 1fr) [f] minmax(150px, 1fr) [g] minmax(100px, 1fr) [h] minmax(
       140px,
       1fr
-    ) [i] minmax(100px, 1fr) [j] minmax(100px, 1fr) [k] 70px [l];
+    )
+    [i] minmax(100px, 1fr) [j] minmax(100px, 1fr) [k] 70px [l];
 }
 .TableOrder_gridContainerTableHistory__d30Rw .TableOrder_cell__3IiHs {
   position: relative;
@@ -2173,10 +2189,9 @@
   overflow-x: auto;
   overflow-y: hidden;
   display: grid;
-  grid-template-columns: [a] minmax(140px, 1fr) [b] minmax(120px, 1fr) [c] minmax(
-      110px,
-      1fr
-    ) [d] minmax(120px, 1fr) [e] minmax(100px, 1fr) [f] minmax(50px, 1fr) [g];
+  grid-template-columns:
+    [a] minmax(140px, 1fr) [b] minmax(120px, 1fr) [c] minmax(110px, 1fr)
+    [d] minmax(120px, 1fr) [e] minmax(100px, 1fr) [f] minmax(50px, 1fr) [g];
 }
 .TableFundLock_table__jiFRW button {
   width: auto;
@@ -2544,10 +2559,9 @@
   overflow-x: auto;
   overflow-y: hidden;
   display: grid;
-  grid-template-columns: [a] minmax(140px, 1fr) [b] minmax(120px, 1fr) [c] minmax(
-      110px,
-      1fr
-    ) [d] minmax(120px, 1fr) [e] minmax(100px, 1fr) [f] minmax(50px, 1fr) [g];
+  grid-template-columns:
+    [a] minmax(140px, 1fr) [b] minmax(120px, 1fr) [c] minmax(110px, 1fr)
+    [d] minmax(120px, 1fr) [e] minmax(100px, 1fr) [f] minmax(50px, 1fr) [g];
 }
 .TableMarginLoan_table__u1pT9 button {
   width: auto;
