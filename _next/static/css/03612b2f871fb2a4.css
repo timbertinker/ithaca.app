@@ -1,0 +1,65 @@
+.AppWrapper_appWrapper__vfjL7 {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  position: relative;
+  overflow: hidden;
+}
+.AppWrapper_background__96tmM {
+  pointer-events: none;
+  z-index: 0;
+}
+@media (min-width: 26.875rem) {
+  .AppWrapper_container__hUO9q {
+    position: absolute;
+  }
+}
+@media (min-width: 43.4375rem) {
+  .AppWrapper_container__hUO9q {
+    position: absolute;
+  }
+}
+@media (min-width: 89.6875rem) {
+  .AppWrapper_container__hUO9q {
+    position: fixed;
+  }
+}
+.AppWrapper_rightShapeContainer__QsmeY {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  pointer-events: none;
+  z-index: -1;
+}
+.AppWrapper_gradientOverlay__qh_mu {
+  background: url(/gradient.svg) no-repeat 50%;
+  background-size: cover;
+  position: fixed;
+  left: 50%;
+  bottom: 0;
+  width: 100vw;
+  height: 100vh;
+  pointer-events: none;
+  transform: translateX(-50%);
+}
+@keyframes AppWrapper_leftShapeMove__7pYeG {
+  0% {
+    transform: translate(-20%, 80%);
+    opacity: 0.2;
+  }
+  to {
+    transform: translate(-20%, 60%);
+    opacity: 1;
+  }
+}
+@keyframes AppWrapper_rightShapeMove__79QAs {
+  0% {
+    transform: translate(20%, 80%);
+    opacity: 0.2;
+  }
+  to {
+    transform: translate(20%, 60%);
+    opacity: 1;
+  }
+}
