@@ -147,17 +147,8 @@
                       href: "/account-access-management",
                       children: "Account Access Management",
                     }),
-                    (0, o.jsx)(s(), {
-                      href: "https://docs.ithacaprotocol.io/docs/",
-                      children: "Docs",
-                    }),
                     n &&
-                      (0, o.jsx)(s(), {
-                        href: "https://hashlock.com/wp-content/uploads/2024/10/Ithaca-4th-Smart-Contract-Audit-Report-Final-Report-v2.pdf",
-                        target: "_blank",
-                        rel: "noopener noreferrer",
-                        children: "Ithaca AI Agents Infrastructure Audit",
-                      }),
+                     
                     (0, o.jsx)(_, { className: d().buildVersion }),
                   ],
                 }),

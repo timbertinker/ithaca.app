@@ -4915,7 +4915,7 @@
             u = e.hash || "",
             l = e.query || "",
             s = !1;
-          (t = t ? encodeURIComponent(t).replace(/%3A/i, ":") + "@" : ""),
+          (t = t ? encodeURIComponent(t).replace(/:/i, ":") + "@" : ""),
             e.host
               ? (s = t + e.host)
               : r &&

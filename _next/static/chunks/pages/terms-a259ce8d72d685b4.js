@@ -129,11 +129,11 @@
                     }),
                     (0, n.jsx)("h5", {
                       className: "mb-20",
-                      children: "Updated as of 14.03.2024",
+                      children: "27.07.2025",
                     }),
                     (0, n.jsx)("h1", { children: "Preamble" }),
                     (0, n.jsxs)("h4", {
-                      style: { fontWeight: "normal", marginBottom: -10 },
+                      style: { fontWeight: "normal", marginBottom: -10 }, 
                       children: [
                         (0, n.jsxs)("p", {
                           children: [
