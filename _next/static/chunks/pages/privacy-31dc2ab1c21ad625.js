@@ -150,6 +150,9 @@
                       children:
                         "We may collect the following categories of Personal Information directly from you:",
                     }),
+                    (0, t.jsx)("br", {
+
+                    }),
                     (0, t.jsxs)("ul", {
                       children: [
                         (0, t.jsx)("li", {
